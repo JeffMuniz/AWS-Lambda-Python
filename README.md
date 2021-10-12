@@ -1,5 +1,5 @@
 # Aws-Lambda-Python
-Return random word from Lambda API and DynamoDB
+Return random word from Lambda API and DynamoDB and some other ServLess
 
 
 Yet to come:
